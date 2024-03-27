@@ -47,7 +47,7 @@ grid on;
 ```
 绘图结果为
 
-![alt text](HW8_1.jpg)
+![alt text](HW7_1.jpg)
 
 
 ## Problem 2
@@ -84,7 +84,7 @@ grid on;
 
 绘图结果为
 
-![alt text](HW8_2.jpg)
+![alt text](HW7_2.jpg)
 
 
 ## Problem 3
@@ -161,4 +161,4 @@ Trained bias:
 ```
 绘图结果为
 
-![alt text](HW8_3.jpg)
+![alt text](HW7_3.jpg)
